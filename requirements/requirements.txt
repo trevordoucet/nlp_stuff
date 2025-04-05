@@ -1,0 +1,12 @@
+pandas
+matplotlib
+requests
+wordcloud
+scikit-learn
+nltk
+datasets
+transformers
+torch
+sklearn
+TfidfVectorizer
+cosine_similarity
